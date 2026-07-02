@@ -60,7 +60,7 @@ Task-3-Library-Management-System
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/danveerendra1/Java-Library-Management-System
 ```
 
 Navigate to src folder
